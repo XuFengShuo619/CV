@@ -30,7 +30,7 @@ layout: homepage
 
 ## Others
 
-1. Zhang La, Xu FH<sup>a</sup> , Li S, Zheng X, Zheng S, Liu H, Lyu J, Yin H. Influence of fluid balance on the prognosis of patients with sepsis. BMC Anesthesiology. (IF: 2.217) (Accepted)
+1. Zhang L<sup>a</sup>, Xu FH<sup>a</sup> , Li S, Zheng X, Zheng S, Liu H, Lyu J, Yin H. Influence of fluid balance on the prognosis of patients with sepsis. BMC Anesthesiology. (IF: 2.217) (Accepted)
 2. Han D, Xu F, Li C, Zhang L, Yang R, Zheng S, Wang Z, Lyu J. A novel nomogram for predicting survival in patients with severe acute pancreatitis: an analysis based on the large MIMIC-III clinical database. Emergency Medicine International. (IF: 1.112) (Accepted)
 3. Li C, Xu F, Huang Q, Han D, Zheng S, Wu W, Zhao F, Feng X, Lyu J. Nomograms for Differentiated Thyroid Carcinoma Patients Based on the Eighth AJCC Staging and Competing Risks Model. JNCI Cancer Spectr. 2021 Apr 22;5(3):pkab038. doi: 10.1093/jncics/pkab038. PMID: 34159295; PMCID: PMC8211639. (Medline)
 4. Zhang L, Wang Z, Xu F, Han D, Li S, Yin H, Lyu J. Effects of Stress Hyperglycemia on Short-Term Prognosis of Patients Without Diabetes Mellitus in Coronary Care Unit. Front Cardiovasc Med. 2021 May 19;8:683932. doi: 10.3389/fcvm.2021.683932. PMID: 34095265; PMCID: PMC8169960. (IF: 6.05)
