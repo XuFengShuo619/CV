@@ -22,7 +22,7 @@ layout: homepage
 
 ## Main Publications
 
-1. **Xu F**, Zhang L, Wang Z, Han D, Li C, Zheng S, Yin H, Lyu J. **A new scoring system for predicting in-hospital death in patients having liver cirrhosis with esophageal varices**. Front Med (Lausanne) (IF: 5.091) (Accepted)
+1. **Xu F**, Zhang L, Wang Z, Han D, Li C, Zheng S, Yin H, Lyu J. **A New Scoring System for Predicting In-hospital Death in Patients Having Liver Cirrhosis With Esophageal Varices**. Front Med (Lausanne). 2021 Oct 11;8:678646. doi: 10.3389/fmed.2021.678646. PMID: 34708050; PMCID: PMC8542681. (IF: 5.091)
 2. **Xu F**, Feng X, Zhao F, Huang Q, Han D, Li C, Zheng S, Lyu J. **Competing-risks nomograms for predicting cause-specific mortality in parotid-gland carcinoma: A population-based analysis**. Cancer Med. 2021 Jun;10(11):3756-3769. doi: 10.1002/cam4.3919. Epub 2021 May 7. PMID: 33960711; PMCID: PMC8178487. (IF: 4.452)
 3. **Xu F**, Yang J, Han D, Huang Q, Li C, Zheng S, Wang H, Lyu J. **Nomograms for Estimating Cause-Specific Death Rates of Patients With Inflammatory Breast Cancer: A Competing-Risks Analysis.** Technol Cancer Res Treat. 2021 Jan-Dec;20:15330338211016371. doi: 10.1177/15330338211016371. PMID: 34013802; PMCID: PMC8141985. (IF: 3.399)
 4. **Xu F**, Zhao F, Feng X, Li C, Han D, Zheng S, Liu Y, Lyu J. **Nomogram for predicting cancer-specific survival in undifferentiated pleomorphic sarcoma: A Surveillance, Epidemiology, and End Results -based study**. Cancer Control. 2021 Jan-Dec;28:10732748211036775. doi: 10.1177/10732748211036775. PMID: 34405711; PMCID: PMC8377322. (IF: 3.302)
@@ -31,7 +31,7 @@ layout: homepage
 
 ## Others
 
-1. Han D, **Xu F**, Li C, Zhang L, Yang R, Zheng S, Wang Z, Lyu J. **A novel nomogram for predicting survival in patients with severe acute pancreatitis: an analysis based on the large MIMIC-III clinical database**. Emergency Medicine International. (IF: 1.112) (Accepted)
+1. Han D, **Xu F**, Li C, Zhang L, Yang R, Zheng S, Wang Z, Lyu J. **A Novel Nomogram for Predicting Survival in Patients with Severe Acute Pancreatitis: An Analysis Based on the Large MIMIC-III Clinical Database**. Emerg Med Int. 2021 Oct 11;2021:9190908. doi: 10.1155/2021/9190908. PMID: 34676117; PMCID: PMC8526213. (IF: 1.112)
 2. Li C, **Xu F**, Huang Q, Han D, Zheng S, Wu W, Zhao F, Feng X, Lyu J. **Nomograms for Differentiated Thyroid Carcinoma Patients Based on the Eighth AJCC Staging and Competing Risks Model**. JNCI Cancer Spectr. 2021 Apr 22;5(3):pkab038. doi: 10.1093/jncics/pkab038. PMID: 34159295; PMCID: PMC8211639. (Medline)
 3. Zhang L, Wang Z, **Xu F**, Han D, Li S, Yin H, Lyu J. **Effects of Stress Hyperglycemia on Short-Term Prognosis of Patients Without Diabetes Mellitus in Coronary Care Unit**. Front Cardiovasc Med. 2021 May 19;8:683932. doi: 10.3389/fcvm.2021.683932. PMID: 34095265; PMCID: PMC8169960. (IF: 6.05)
 4. Zhang L, Zhang F, **Xu F**, Wang Z, Ren Y, Han D, Lyu J, Yin H. **Construction and Evaluation of a Sepsis Risk Prediction Model for Urinary Tract Infection**. Front Med (Lausanne). 2021 May 21;8:671184. doi: 10.3389/fmed.2021.671184. PMID: 34095176; PMCID: PMC8175780. (IF: 5.091)
