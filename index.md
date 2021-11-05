@@ -55,8 +55,9 @@ layout: homepage
 22. Li C, Li J, Huang Q, Feng X, Zhao F, **Xu F**, Han D, Lyu J. **Developing and validating a novel nomogram used a competing-risks model for predicting the prognosis of primary fallopian tube carcinoma: a retrospective study based on the SEER database**. Ann Transl Med. 2021 Mar;9(5):378. doi: 10.21037/atm-20-5398. PMID: 33842599; PMCID: PMC8033332. (IF: 3.932)
 23. He H, Xie H, Chen Y, Li C, Han D, **Xu F**, Lyu J. **Global, regional, and national burdens of bladder cancer in 2017: estimates from the 2017 global burden of disease study**. BMC Public Health. 2020 Nov 11;20(1):1693. doi: 10.1186/s12889-020-09835-7. PMID: 33176751; PMCID: PMC7659112. (IF: 3.295)
 24. Zheng S, Zhao F, Yang R, Wu W, Liu H, Ma W, **Xu F**, Han D, Lyu J. **Using Restricted Cubic Splines to Study the Trajectory of Systolic Blood Pressure in the Prognosis of Acute Myocardial Infarction**. Front Cardiovasc Med. 2021 Sep 10;8:740580. doi: 10.3389/fcvm.2021.740580. PMID: 34568468; PMCID: PMC8460999. (IF: 6.05)
-25. 郑帅,白利峰,韩迪迪,**许丰硕**,吕军.ncRI数据库介绍及数据获取方法[J].中国循证心血管医学杂志,2021,13(07):773-776.
-26. 郑帅,田国祥,韩迪迪,李承倬,**许丰硕**,吕军.cBioPortal数据库介绍及数据提取流程[J].中国循证心血管医学杂志,2020,12(09):1028-1031.
-27. 郑帅,田国祥,韩迪迪,李承倬,**许丰硕**,吕军.Orphanet数据库架构及数据获取方法与流程[J].中国循证心血管医学杂志,2020,12(06):651-654.
-28. 计算机软件著作：预防医学公共卫生事件应急处置系统软件V1.0（2021SR0955539）
-29. 参与国家社会科学基金项目：探索药物基因组学检测项目临床准入模式的研究（16BGL183）
+25. Feng X; Wu W; Zhao F; Li X; Han D; Li C; **Xu F**; Lyu J. **Relationship between self-reported sleep duration during week-/work-days and metabolic syndrome from NHANES 2013–2016 based on dose–response analyses using restricted cubic splines Sleep and Breathing**. Sleep and Breathing. (IF: 2.816) (Accepted)
+26. 郑帅,白利峰,韩迪迪,**许丰硕**,吕军.ncRI数据库介绍及数据获取方法[J].中国循证心血管医学杂志,2021,13(07):773-776.
+27. 郑帅,田国祥,韩迪迪,李承倬,**许丰硕**,吕军.cBioPortal数据库介绍及数据提取流程[J].中国循证心血管医学杂志,2020,12(09):1028-1031.
+28. 郑帅,田国祥,韩迪迪,李承倬,**许丰硕**,吕军.Orphanet数据库架构及数据获取方法与流程[J].中国循证心血管医学杂志,2020,12(06):651-654.
+29. 计算机软件著作：预防医学公共卫生事件应急处置系统软件V1.0（2021SR0955539）
+30. 参与国家社会科学基金项目：探索药物基因组学检测项目临床准入模式的研究（16BGL183）
