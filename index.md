@@ -27,7 +27,8 @@ layout: homepage
 3. **Xu F**, Yang J, Han D, Huang Q, Li C, Zheng S, Wang H, Lyu J. **Nomograms for Estimating Cause-Specific Death Rates of Patients With Inflammatory Breast Cancer: A Competing-Risks Analysis.** Technol Cancer Res Treat. 2021 Jan-Dec;20:15330338211016371. doi: 10.1177/15330338211016371. PMID: 34013802; PMCID: PMC8141985. (IF: 3.399)
 4. **Xu F**, Zhao F, Feng X, Li C, Han D, Zheng S, Liu Y, Lyu J. **Nomogram for predicting cancer-specific survival in undifferentiated pleomorphic sarcoma: A Surveillance, Epidemiology, and End Results -based study**. Cancer Control. 2021 Jan-Dec;28:10732748211036775. doi: 10.1177/10732748211036775. PMID: 34405711; PMCID: PMC8377322. (IF: 3.302)
 5. **Xu F**, Li C, Li X, Huang Q, Han D, Wang H, Zheng S, Lyu J. **Competing-Risk Nomograms for Predicting the Prognosis of Patients With Infiltrating Lobular Carcinoma of the Breast**. Clin Breast Cancer. 2021 Mar 18:S1526-8209(21)00063-X. doi: 10.1016/j.clbc.2021.03.008. Epub ahead of print. PMID: 33846097. (IF: 3.225)
-6. Zhang L<sup>a</sup>, **Xu F<sup>a</sup>** , Li S, Zheng X, Zheng S, Liu H, Lyu J, Yin H. **Influence of fluid balance on the prognosis of patients with sepsis**. BMC Anesthesiology. (IF: 2.217) (Accepted)
+6. Li C<sup>a</sup>, **Xu F<sup>a</sup>** , Han D, Zheng S, Ma W, Yang R, Wang Z, Liu Y, Lyu J. **Developing and verifying a multivariate model to predict the survival probability after coronary artery bypass grafting in patients with coronary atherosclerosis based on the MIMIC-III database**. Heart&Lung. (IF: 2.21) (Accepted)
+7. Zhang L<sup>a</sup>, **Xu F<sup>a</sup>** , Li S, Zheng X, Zheng S, Liu H, Lyu J, Yin H. **Influence of fluid balance on the prognosis of patients with sepsis**. BMC Anesthesiology. (IF: 2.217) (Accepted)
 
 ## Others
 
