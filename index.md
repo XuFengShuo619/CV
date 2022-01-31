@@ -30,6 +30,7 @@ layout: homepage
 7. Zhang L<sup>a</sup>, **Xu F<sup>a</sup>**, Han D, Huang T, Li S, Yin H, Lyu J. **Influence of the trajectory of the urine output for 24 hours on the occurrence of AKI in patients with sepsis in intensive care unit**. J Transl Med. 2021 Dec 20;19(1):518. doi: 10.1186/s12967-021-03190-w. PMID: 34930308; PMCID: PMC8686667. (IF: 5.531)
 8. Zhang L<sup>a</sup>, **Xu F<sup>a</sup>** , Li S, Zheng X, Zheng S, Liu H, Lyu J, Yin H. **Influence of fluid balance on the prognosis of patients with sepsis**. BMC Anesthesiology. 2021 Nov 5;21(1):269. doi: 10.1186/s12871-021-01489-1. PMID: 34740312; PMCID: PMC8569078. (IF: 2.217)
 9. Li C<sup>a</sup>, **Xu F<sup>a</sup>** , Han D, Zheng S, Ma W, Yang R, Wang Z, Liu Y, Lyu J. **Developing and verifying a multivariate model to predict the survival probability after coronary artery bypass grafting in patients with coronary atherosclerosis based on the MIMIC-III database**. Heart Lung. 2021 Dec 4;52:61-70. doi: 10.1016/j.hrtlng.2021.11.009. Epub ahead of print. PMID: 34875570. (IF: 2.21)
+10. Zhang X<sup>a</sup>, **Xu F<sup>a</sup>** ,Bin Y, Liu T, Li Z, Guo D, Li Y, Huang Q, Lyu J, He S, **Nomogram to predict cause-specific mortality of patients with rectal adenocarcinoma undergoing surgery: a competing risk analysis**. BMC Gastroenterology. (IF: )(Accepted)
 
 ## Others
 
